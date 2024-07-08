@@ -13,10 +13,10 @@ Quantum Hadamard Edge Detection of Image Processing
 
 ![image](https://github.com/SevdanurGENC/Quantum-Hadamard-Edge-Detection/assets/5441882/46392e5f-3021-4c28-b32e-ed4bf059ee04)
 
-Şekil 4: (a) Yatay tarama çıktısı, (b) Dikey tarama çıktısı, (c) Orjinal görüntü ve (d) Kuantum Hadamard Kenar Algılama uygulanmış hali
+Şekil 3: (a) Yatay tarama çıktısı, (b) Dikey tarama çıktısı, (c) Orjinal görüntü ve (d) Kuantum Hadamard Kenar Algılama uygulanmış hali
 
 ![image](https://github.com/SevdanurGENC/Quantum-Hadamard-Edge-Detection/assets/5441882/be4bc46c-1c98-44ef-a9d1-466e960f4f37)
 
-Şekil 5: Yapılan birkaç çalışma için sırasıyla; esas görüntü, yatay tarama QHED çıktısı, dikey tarama QHED çıktısı ve birleştirilmiş QHED görüntüsü.
+Şekil 4: Yapılan birkaç çalışma için sırasıyla; esas görüntü, yatay tarama QHED çıktısı, dikey tarama QHED çıktısı ve birleştirilmiş QHED görüntüsü.
 
 ![image](https://github.com/SevdanurGENC/SevdanurGENC-Quantum-Hadamard-Edge-Detection/assets/5441882/a490ff8a-936b-4134-8250-22387395c099)
